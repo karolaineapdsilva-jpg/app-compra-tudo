@@ -1,0 +1,9 @@
+# changelog
+## [2.2.0]
+
+### added - permitir que o usuário altere seu email.
+
+### fixed - aumentar contrante do botão "esqueci a senha" . - corrigir erro de paginação na lista de produtos.
+
+
+### maintenance - adicionar etapa de lint ao pipeline de integração contínua.
